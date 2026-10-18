@@ -14,7 +14,7 @@
   * *Expected:* A single, consolidated filtering interface with direct district selection.
   * *Actual:* Duplicated filter options appearing across two distinct UI components on the same page.
 * **Suggested Fix:** Integrate secondary filter controls directly into the primary top search bar to streamline the discovery experience.
-* **Evidence:** ![duplicated filter](../media/duplicated_filter.PNG)
+* **Evidence:** ![duplicated filter](../media/duplicatedfilter.PNG)
 
 ---
 
@@ -30,7 +30,7 @@
   * *Expected:* Display events in Lisboa matching weekend/solo criteria.
   * *Actual:* The recommendation widget resets location bounds and returns nationwide events, displaying two conflicting lists on the same page.
 * **Suggested Fix:** Preserve active global filter states (e.g., location) when generating query parameters for the suggestion widget.
-* **Evidence:** ![filter](../media/sugestion.PNG) ![conflict sugestion](../media/conflictant_sugestion.png)
+* **Evidence:** ![filter](../media/sugestion.PNG) ![conflict sugestion](../media/conflictantsugestion.png)
 
 ---
 
