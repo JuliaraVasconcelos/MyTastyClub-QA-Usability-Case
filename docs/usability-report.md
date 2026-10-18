@@ -14,7 +14,7 @@
   * *Expected:* A single, consolidated filtering interface with direct district selection.
   * *Actual:* Duplicated filter options appearing across two distinct UI components on the same page.
 * **Suggested Fix:** Integrate secondary filter controls directly into the primary top search bar to streamline the discovery experience.
-* **Evidence:** ![duplicated filter](media/duplicated_filter.PNG)
+* **Evidence:** ![duplicated filter](MyTastyClub-QA-Usability-Case/media/duplicated_filter.PNG)
 
 ---
 
@@ -30,7 +30,7 @@
   * *Expected:* Display events in Lisboa matching weekend/solo criteria.
   * *Actual:* The recommendation widget resets location bounds and returns nationwide events, displaying two conflicting lists on the same page.
 * **Suggested Fix:** Preserve active global filter states (e.g., location) when generating query parameters for the suggestion widget.
-* **Evidence:** ![filter](media/sugestion.PNG) ![conflict sugestion](media/conflictant_sugestion.png)
+* **Evidence:** ![filter](MyTastyClub-QA-Usability-Case/media/sugestion.PNG) ![conflict sugestion](MyTastyClub-QA-Usability-Case/media/conflictant_sugestion.png)
 
 ---
 
@@ -46,7 +46,7 @@
   * *Expected:* Welcoming copy for community submissions and a confirmation banner specifying a expected review time (e.g., "Approved within 24–48 hours").
   * *Actual:* Copy discourages general users, and the "Under Review" message provides no expected completion date.
 * **Suggested Fix:** Rephrase the "About You" section to encourage community submissions and add a clear turnaround SLA to the submission confirmation toast/dialogue.
-* **Evidence:** ![message](media/submissão.PNG)
+* **Evidence:** ![message](MyTastyClub-QA-Usability-Case/media/submissão.PNG)
 
 ---
 
