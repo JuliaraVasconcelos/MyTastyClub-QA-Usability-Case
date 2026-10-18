@@ -41,7 +41,7 @@ This case study presents a **Heuristic Usability Evaluation and Specialized QA A
 ---
 
 ## 📄 Documentation Structure
-* 📂 [Test Cases](docs/testcases)
+* 📂 [Test Cases](docs/testcases.md)
 * 📂 [Usability & Bug Report](docs/usability-report.md)
 * 📂 [Media & Evidence](assets/)
 
