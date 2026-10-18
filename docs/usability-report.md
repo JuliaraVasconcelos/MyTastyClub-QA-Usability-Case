@@ -30,7 +30,7 @@
   * *Expected:* Display events in Lisboa matching weekend/solo criteria.
   * *Actual:* The recommendation widget resets location bounds and returns nationwide events, displaying two conflicting lists on the same page.
 * **Suggested Fix:** Preserve active global filter states (e.g., location) when generating query parameters for the suggestion widget.
-* **Evidence:** ![filter](../media/sugestion.PNG) ![conflict sugestion](../media/conflictantsugestion.png)
+* **Evidence:** ![filter](../media/sugestion.PNG) ![conflict sugestion](../media/conflictsugestion.png)
 
 ---
 
