@@ -1,6 +1,6 @@
 # 🍷 My Tasty Club — QA & Usability Case Study
 
-![App Preview](../media/header.png)
+![App Preview](../media/header.PNG)
 
 ## 📌 About the Project
 [My Tasty Club](https://mytastyclub.app) is a Portuguese web platform dedicated to sharing culinary experiences, wine tastings, festivals, workshops, and exclusive member perks.
