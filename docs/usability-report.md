@@ -14,7 +14,7 @@
   * *Expected:* A single, consolidated filtering interface with direct district selection.
   * *Actual:* Duplicated filter options appearing across two distinct UI components on the same page.
 * **Suggested Fix:** Integrate secondary filter controls directly into the primary top search bar to streamline the discovery experience.
-* **Evidence:** ![duplicated filter](https://www.image2url.com/r2/default/images/1792343117533-572294d7-92f0-49c1-8cd8-891a233000c0.png)
+* **Evidence:** ![duplicated filter](media/duplicated_filter.PNG)
 
 ---
 
@@ -30,7 +30,7 @@
   * *Expected:* Display events in Lisboa matching weekend/solo criteria.
   * *Actual:* The recommendation widget resets location bounds and returns nationwide events, displaying two conflicting lists on the same page.
 * **Suggested Fix:** Preserve active global filter states (e.g., location) when generating query parameters for the suggestion widget.
-* **Evidence:** ![filter](https://www.image2url.com/r2/default/images/1792343177759-d89159d9-1fa6-4219-af17-eaed7c5448f7.png) ![conflict sugestion](https://www.image2url.com/r2/default/images/1792343275995-d4736a8a-0cbe-4ec9-aec5-630b2d729fba.png)
+* **Evidence:** ![filter](media/sugestion.PNG) ![conflict sugestion](media/conflictant_sugestion.png)
 
 ---
 
@@ -46,7 +46,7 @@
   * *Expected:* Welcoming copy for community submissions and a confirmation banner specifying a expected review time (e.g., "Approved within 24–48 hours").
   * *Actual:* Copy discourages general users, and the "Under Review" message provides no expected completion date.
 * **Suggested Fix:** Rephrase the "About You" section to encourage community submissions and add a clear turnaround SLA to the submission confirmation toast/dialogue.
-* **Evidence:** ![message](https://www.image2url.com/r2/default/images/1792343348557-398e96b9-aa90-445a-9dab-36614f69147b.png)
+* **Evidence:** ![message](media/submissão.PNG)
 
 ---
 
